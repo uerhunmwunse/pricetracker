@@ -1,0 +1,4 @@
+flask
+python-dotenv
+fuzzywuzzy
+python-telegram-bot==22.0
